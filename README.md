@@ -1,6 +1,7 @@
 # kestrelhelloworld
 
 nginx, kestrel ve docker-compose kullanarak helloworld seviyesinde bir .net core projesinin tek bir komutla deploy edilmesini sağlayan bir PoC.
+kestrel+uygulamanin bulundugu container'ı edinmek icin "docker pull mantislogic/hell0c0rew0rld"
 
 
 prerequisites
